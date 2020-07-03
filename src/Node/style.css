@@ -1,26 +1,26 @@
 .nodeBase {
   cursor: pointer;
   fill: #777;
-  stroke: #000;
+  stroke: #ff9a76;
   stroke-width: 2;
 }
 
 .leafNodeBase {
   cursor: pointer;
   fill: transparent;
-  stroke: #000;
+  stroke: #ff9a76;
   stroke-width: 2;
 }
 
 .nodeNameBase {
-  fill: #000;
-  stroke: #000;
+  fill: #ffeadb;
+  stroke: #ffeadb;
   stroke-width: 1;
 }
 
 .nodeAttributesBase {
-  fill: #777;
-  stroke: #777;
+  fill: #f4f6ff;
+  stroke: #f4f6ff;
   stroke-width: 1;
   font-size: smaller;
 }
